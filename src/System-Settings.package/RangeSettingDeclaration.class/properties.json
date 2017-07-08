@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "alain.plantec 4/7/2009 23:03",
+	"super" : "SettingDeclaration",
+	"category" : "System-Settings-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"range"
+	],
+	"name" : "RangeSettingDeclaration",
+	"type" : "normal"
+}

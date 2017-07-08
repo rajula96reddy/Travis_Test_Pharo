@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Kernel-Tests-Rules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"testClass",
+		"testSubclass"
+	],
+	"name" : "OverridesDeprecatedMethodRuleTest",
+	"type" : "normal"
+}

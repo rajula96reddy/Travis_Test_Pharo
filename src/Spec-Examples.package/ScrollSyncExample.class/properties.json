@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Spirita 7/28/2016 15:11",
+	"super" : "ComposableModel",
+	"category" : "Spec-Examples-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"text",
+		"sideRuler",
+		"currentVerticalScrollPosition"
+	],
+	"name" : "ScrollSyncExample",
+	"type" : "normal"
+}

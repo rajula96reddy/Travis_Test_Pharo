@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "RBProgramNode",
+	"category" : "AST-Core-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"return",
+		"value"
+	],
+	"name" : "RBReturnNode",
+	"type" : "normal"
+}

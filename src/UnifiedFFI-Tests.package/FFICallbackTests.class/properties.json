@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "UnifiedFFI-Tests",
+	"classinstvars" : [ ],
+	"pools" : [
+		"FFITestEnumeration"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FFICallbackTests",
+	"type" : "normal"
+}

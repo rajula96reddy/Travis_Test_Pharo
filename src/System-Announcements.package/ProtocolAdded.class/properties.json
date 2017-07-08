@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ProtocolAnnouncement",
+	"category" : "System-Announcements-System-Protocols",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ProtocolAdded",
+	"type" : "normal"
+}

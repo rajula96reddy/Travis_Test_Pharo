@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "SmartSuggestions-Menu",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"selectedNode",
+		"model",
+		"selectionPreviousHighligth"
+	],
+	"name" : "SugsAbstractContext",
+	"type" : "normal"
+}

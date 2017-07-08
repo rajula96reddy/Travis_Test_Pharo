@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Archive",
+	"category" : "Compression-Archives",
+	"classinstvars" : [ ],
+	"pools" : [
+		"ZipFileConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"centralDirectorySize",
+		"centralDirectoryOffsetWRTStartingDiskNumber",
+		"zipFileComment",
+		"writeCentralDirectoryOffset",
+		"writeEOCDOffset"
+	],
+	"name" : "ZipArchive",
+	"type" : "normal"
+}

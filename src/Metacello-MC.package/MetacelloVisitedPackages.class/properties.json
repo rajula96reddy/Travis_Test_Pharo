@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Metacello-MC-Specs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"groups",
+		"packages",
+		"projects"
+	],
+	"name" : "MetacelloVisitedPackages",
+	"type" : "normal"
+}

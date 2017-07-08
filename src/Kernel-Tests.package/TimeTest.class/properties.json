@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ClassTestCase",
+	"category" : "Kernel-Tests-Chronology",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"time",
+		"aTime",
+		"localTimeZoneToRestore"
+	],
+	"name" : "TimeTest",
+	"type" : "normal"
+}

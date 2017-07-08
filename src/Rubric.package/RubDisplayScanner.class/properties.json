@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "RubCharacterScanner",
+	"category" : "Rubric-TextScanning",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bitBlt",
+		"lineY",
+		"runX",
+		"foregroundColor",
+		"backgroundColor",
+		"fillBlt",
+		"lineHeight",
+		"morphicOffset",
+		"ignoreColorChanges",
+		"defaultTextColor"
+	],
+	"name" : "RubDisplayScanner",
+	"type" : "normal"
+}

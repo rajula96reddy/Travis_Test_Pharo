@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 9/5/2014 15:25",
+	"super" : "Announcement",
+	"category" : "Morphic-Widgets-Tree-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MorphTreeAnnounce",
+	"type" : "normal"
+}

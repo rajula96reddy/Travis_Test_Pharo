@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "BorderedMorph",
+	"category" : "Morphic-Widgets-Tree-Pagination",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"treeMorph",
+		"pageSize",
+		"computedHeight",
+		"withSearch",
+		"pageSearchText"
+	],
+	"name" : "MorphTreeNavigationBar",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "Igor.Stasenko 10/16/2010 03:54",
+	"super" : "Object",
+	"category" : "Collections-Atomic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AtomicCollection",
+	"type" : "normal"
+}

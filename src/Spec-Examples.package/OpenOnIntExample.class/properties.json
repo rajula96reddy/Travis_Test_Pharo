@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Spirita 7/27/2016 11:03",
+	"super" : "ComposableModel",
+	"category" : "Spec-Examples-Wrapper",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"text",
+		"plus",
+		"minus"
+	],
+	"name" : "OpenOnIntExample",
+	"type" : "normal"
+}

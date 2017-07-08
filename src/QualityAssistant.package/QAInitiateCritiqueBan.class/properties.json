@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "YuriyTymchuk 8/29/2015 22:08",
+	"super" : "ReSingleCritiqueEvent",
+	"category" : "QualityAssistant-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "QAInitiateCritiqueBan",
+	"type" : "normal"
+}

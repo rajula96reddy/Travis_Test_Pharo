@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 1/14/2011 00:35",
+	"super" : "Object",
+	"category" : "HelpSystem-Core-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WikiStyleHelp",
+	"type" : "normal"
+}

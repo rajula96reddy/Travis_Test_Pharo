@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Tool-DependencyAnalyser-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"oldRelationGraph",
+		"newRelationGraph",
+		"packageRelationGraphDiff",
+		"packageA",
+		"packageB"
+	],
+	"name" : "DAPackageRelationGraphDiffTest",
+	"type" : "normal"
+}

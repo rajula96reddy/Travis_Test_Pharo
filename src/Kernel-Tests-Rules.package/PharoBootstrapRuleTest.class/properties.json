@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Kernel-Tests-Rules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"checkerBackup"
+	],
+	"name" : "PharoBootstrapRuleTest",
+	"type" : "normal"
+}

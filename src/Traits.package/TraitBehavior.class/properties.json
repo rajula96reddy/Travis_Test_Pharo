@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "apb 3/2/2006 17:49",
+	"super" : "Object",
+	"category" : "Traits-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"TraitProperties"
+	],
+	"instvars" : [
+		"methodDict",
+		"traitComposition",
+		"localSelectors",
+		"users"
+	],
+	"name" : "TraitBehavior",
+	"type" : "normal"
+}

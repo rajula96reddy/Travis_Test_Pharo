@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "StephaneDucasse 11/19/2011 16:48",
+	"super" : "ReadWriteStream",
+	"category" : "EmergencyEvaluator",
+	"classinstvars" : [ ],
+	"pools" : [
+		"EventSensorConstants"
+	],
+	"classvars" : [
+		"Icon"
+	],
+	"instvars" : [
+		"frame",
+		"para"
+	],
+	"name" : "Transcripter",
+	"type" : "normal"
+}

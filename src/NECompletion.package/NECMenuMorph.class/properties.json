@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Morph",
+	"category" : "NECompletion-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"selected",
+		"firstVisible",
+		"titleStringMorph",
+		"controller",
+		"context",
+		"pageHeight",
+		"detailMorph",
+		"detailPosition"
+	],
+	"name" : "NECMenuMorph",
+	"type" : "normal"
+}

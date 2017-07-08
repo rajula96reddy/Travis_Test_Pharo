@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AbstractWidgetModel",
+	"category" : "Spec-Core-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"leftTextHolder",
+		"rightTextHolder",
+		"showOptions",
+		"contextClassHolder",
+		"showOnlyDestination",
+		"showOnlySource"
+	],
+	"name" : "DiffModel",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "NicolaiHess 9/9/2016 20:36",
+	"super" : "RBRefactoryDefinitionChange",
+	"category" : "Refactoring-Changes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"category"
+	],
+	"name" : "RBAddTraitChange",
+	"type" : "normal"
+}

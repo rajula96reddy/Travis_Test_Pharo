@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Kernel-Tests-Processes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fork",
+		"value"
+	],
+	"name" : "RecursionStopperTest",
+	"type" : "normal"
+}

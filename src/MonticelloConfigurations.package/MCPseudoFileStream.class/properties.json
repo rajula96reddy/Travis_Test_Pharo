@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "RWBinaryOrTextStream",
+	"category" : "MonticelloConfigurations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"localName"
+	],
+	"name" : "MCPseudoFileStream",
+	"type" : "normal"
+}

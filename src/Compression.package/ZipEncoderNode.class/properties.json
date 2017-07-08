@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Compression-Streams",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value",
+		"frequency",
+		"height",
+		"bitLength",
+		"code",
+		"parent",
+		"left",
+		"right"
+	],
+	"name" : "ZipEncoderNode",
+	"type" : "normal"
+}

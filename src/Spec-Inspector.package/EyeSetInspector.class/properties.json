@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "EyeCollectionInspector",
+	"category" : "Spec-Inspector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EyeSetInspector",
+	"type" : "normal"
+}

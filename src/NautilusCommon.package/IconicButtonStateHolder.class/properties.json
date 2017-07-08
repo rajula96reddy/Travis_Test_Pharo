@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "NautilusCommon",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"target",
+		"actionSelector",
+		"arguments",
+		"labelGraphic",
+		"color",
+		"extent",
+		"helpText",
+		"borderWidth"
+	],
+	"name" : "IconicButtonStateHolder",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "SUnit-Core-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timeStamp",
+		"failures",
+		"errors",
+		"passed",
+		"skipped"
+	],
+	"name" : "TestResult",
+	"type" : "normal"
+}

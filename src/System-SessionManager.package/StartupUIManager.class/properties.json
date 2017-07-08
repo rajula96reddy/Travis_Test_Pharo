@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "NonInteractiveUIManager",
+	"category" : "System-SessionManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "StartupUIManager",
+	"type" : "normal"
+}

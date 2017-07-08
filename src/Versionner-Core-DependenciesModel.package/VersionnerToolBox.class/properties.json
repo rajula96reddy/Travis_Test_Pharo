@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "ChristopheDemarey 2/21/2014 13:50",
+	"super" : "Object",
+	"category" : "Versionner-Core-DependenciesModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"metacelloToolBox"
+	],
+	"name" : "VersionnerToolBox",
+	"type" : "normal"
+}

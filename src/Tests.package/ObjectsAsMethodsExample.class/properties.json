@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractObjectsAsMethod",
+	"category" : "Tests-ObjectsAsMethods",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ObjectsAsMethodsExample",
+	"type" : "normal"
+}

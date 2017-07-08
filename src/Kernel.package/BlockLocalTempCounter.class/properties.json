@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "InstructionClient",
+	"category" : "Kernel-Methods",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stackPointer",
+		"scanner",
+		"blockEnd",
+		"joinOffsets"
+	],
+	"name" : "BlockLocalTempCounter",
+	"type" : "normal"
+}

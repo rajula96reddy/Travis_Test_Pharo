@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "BaptisteQuide 7/11/2014 11:43",
+	"super" : "TreeNodeModel",
+	"category" : "Tool-DependencyAnalyser-UI-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"treeModelParent",
+		"packageTreeNautilus",
+		"packageTreeNautilusUI",
+		"cycle"
+	],
+	"name" : "DANode",
+	"type" : "normal"
+}

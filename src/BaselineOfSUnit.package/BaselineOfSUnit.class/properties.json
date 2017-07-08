@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "PavelKrivanek 11/7/2016 12:07",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfSUnit",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfSUnit",
+	"type" : "normal"
+}

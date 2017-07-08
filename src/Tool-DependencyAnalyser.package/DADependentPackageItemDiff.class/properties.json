@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "BaptisteQuide 8/7/2014 12:15",
+	"super" : "DAAbstractItemDiff",
+	"category" : "Tool-DependencyAnalyser-Diff",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parent"
+	],
+	"name" : "DADependentPackageItemDiff",
+	"type" : "normal"
+}

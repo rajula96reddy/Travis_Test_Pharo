@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "Spirita 6/27/2016 13:46",
+	"super" : "AbstractWidgetModel",
+	"category" : "Spec-Core-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"imageHolder",
+		"action",
+		"actionHolder",
+		"autoScaleHolder"
+	],
+	"name" : "ImageModel",
+	"type" : "normal"
+}

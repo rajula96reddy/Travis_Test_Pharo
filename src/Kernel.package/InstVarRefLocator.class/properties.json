@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "md 4/8/2003 12:50",
+	"super" : "InstructionClient",
+	"category" : "Kernel-Methods",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bingo"
+	],
+	"name" : "InstVarRefLocator",
+	"type" : "normal"
+}

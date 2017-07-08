@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "ClementBer 10/14/2014 13:58",
+	"super" : "Object",
+	"category" : "OpalCompiler-Core-IR-Manipulation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IRVisitor",
+	"type" : "normal"
+}

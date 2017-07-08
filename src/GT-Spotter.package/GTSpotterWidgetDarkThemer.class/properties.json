@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GTSpotterWidgetThemer",
+	"category" : "GT-Spotter-Theme",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GTSpotterWidgetDarkThemer",
+	"type" : "normal"
+}

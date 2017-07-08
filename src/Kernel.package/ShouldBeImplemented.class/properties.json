@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "SvenVanCaekenberghe 4/21/2011 12:34",
+	"super" : "SelectorException",
+	"category" : "Kernel-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ShouldBeImplemented",
+	"type" : "normal"
+}

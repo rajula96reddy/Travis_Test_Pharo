@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "AlainPlantec 2/22/2012 23:23",
+	"super" : "BorderedMorph",
+	"category" : "Morphic-Widgets-Windows-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"target",
+		"startGap",
+		"location"
+	],
+	"name" : "FastDraggingFrameMorph",
+	"type" : "normal"
+}

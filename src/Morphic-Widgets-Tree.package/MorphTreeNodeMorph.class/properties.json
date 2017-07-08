@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Morph",
+	"category" : "Morphic-Widgets-Tree",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parent",
+		"index",
+		"indentLevel",
+		"isExpanded",
+		"complexContents",
+		"firstChild",
+		"container",
+		"nextSibling",
+		"controls",
+		"lineColor",
+		"selected"
+	],
+	"name" : "MorphTreeNodeMorph",
+	"type" : "normal"
+}

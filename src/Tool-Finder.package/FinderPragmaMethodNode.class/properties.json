@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "NicolaiHess 7/24/2015 23:13",
+	"super" : "FinderMethodNode",
+	"category" : "Tool-Finder",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FinderPragmaMethodNode",
+	"type" : "normal"
+}

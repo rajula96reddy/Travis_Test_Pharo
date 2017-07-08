@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "BaptisteQuide 7/11/2014 11:47",
+	"super" : "DAMethodDependencyNode",
+	"category" : "Tool-DependencyAnalyser-UI-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DAReferenceDependencyNode",
+	"type" : "normal"
+}

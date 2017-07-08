@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "GLMCompositePresentation",
+	"category" : "Glamour-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GLMBrowserWithoutBlocksExample",
+	"type" : "normal"
+}

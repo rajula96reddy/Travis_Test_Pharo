@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "Spirita 7/28/2016 11:15",
+	"super" : "ComposableModel",
+	"category" : "Spec-Tests-Utils",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"list"
+	],
+	"name" : "TestingComposableModel",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ComposableModel",
+	"category" : "Tool-CriticBrowser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"resetModel",
+		"currentConfigurationModel"
+	],
+	"name" : "ResetWindow",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Versionner-Tests-Core-DependenciesModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"project",
+		"classFactory",
+		"class",
+		"visitor"
+	],
+	"name" : "MTDevelopmentWorkfowTest",
+	"type" : "normal"
+}

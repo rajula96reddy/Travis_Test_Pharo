@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MartinDias 12/12/2014 16:11",
+	"super" : "OmEntryWriter",
+	"category" : "Ombu-Persistence",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"writer"
+	],
+	"name" : "OmSTONEntryWriter",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "System-Hashing-DSA",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"HighBitOfByte",
+		"SmallPrimes"
+	],
+	"instvars" : [
+		"randKey",
+		"randSeed"
+	],
+	"name" : "DigitalSignatureAlgorithm",
+	"type" : "normal"
+}

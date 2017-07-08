@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "GuillermoPolito 12/14/2010 21:32",
+	"super" : "Object",
+	"category" : "Keymapping-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"platforms"
+	],
+	"name" : "KMCategory",
+	"type" : "normal"
+}

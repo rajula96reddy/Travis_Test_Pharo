@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "Spirita 6/28/2016 11:30",
+	"super" : "AbstractWidgetModel",
+	"category" : "Spec-Core-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"groups",
+		"title",
+		"icon",
+		"autoRefresh"
+	],
+	"name" : "MenuModel",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "HDTestReport",
+	"category" : "SUnit-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stderr",
+		"stdout",
+		"currentTest",
+		"maxTest",
+		"shouldSerializeError"
+	],
+	"name" : "CommandLineTestRunner",
+	"type" : "normal"
+}

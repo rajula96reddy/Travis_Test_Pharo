@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "LinkedList",
+	"category" : "Kernel-Processes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"excessSignals"
+	],
+	"name" : "Semaphore",
+	"type" : "normal"
+}

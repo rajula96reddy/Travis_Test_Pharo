@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MarcusDenker 11/17/2015 15:52",
+	"super" : "SugsSuggestion",
+	"category" : "SmartSuggestions-Suggestion",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SugsBreakpointSuggestion",
+	"type" : "normal"
+}

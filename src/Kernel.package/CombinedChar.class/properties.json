@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "StephaneDucasse 3/27/2010 21:50",
+	"super" : "Object",
+	"category" : "Kernel-BasicObjects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Compositions",
+		"Decompositions",
+		"Diacriticals"
+	],
+	"instvars" : [
+		"codes",
+		"combined"
+	],
+	"name" : "CombinedChar",
+	"type" : "normal"
+}

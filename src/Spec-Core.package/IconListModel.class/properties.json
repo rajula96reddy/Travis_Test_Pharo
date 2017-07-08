@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "Spirita 6/28/2016 13:27",
+	"super" : "ListModel",
+	"category" : "Spec-Core-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"iconHolder"
+	],
+	"name" : "IconListModel",
+	"type" : "normal"
+}

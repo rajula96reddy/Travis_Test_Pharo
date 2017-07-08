@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MBInfo",
+	"category" : "Versionner-Core-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"spec",
+		"configurationInfo"
+	],
+	"name" : "MBSpecInfo",
+	"type" : "normal"
+}

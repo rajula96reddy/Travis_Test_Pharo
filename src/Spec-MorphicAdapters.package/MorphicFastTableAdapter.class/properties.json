@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "StephanEggermont 2/1/2016 10:54",
+	"super" : "MorphicListAdapter",
+	"category" : "Spec-MorphicAdapters",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MorphicFastTableAdapter",
+	"type" : "normal"
+}

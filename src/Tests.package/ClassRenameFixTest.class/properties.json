@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Tests-System",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"previousChangeSet",
+		"testsChangeSet",
+		"newClassName",
+		"originalName"
+	],
+	"name" : "ClassRenameFixTest",
+	"type" : "normal"
+}

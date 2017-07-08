@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "FranckWarlouzet 7/27/2015 13:24",
+	"super" : "ComposableModel",
+	"category" : "BlueInk-Extras",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"settingsTree",
+		"classSearchField",
+		"methodSearchField",
+		"formattedCheckBox",
+		"sourceCodePane"
+	],
+	"name" : "BISettingPreviewer",
+	"type" : "normal"
+}

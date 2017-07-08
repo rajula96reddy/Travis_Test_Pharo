@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ListItemWrapper",
+	"category" : "Tool-Diff",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PSMCChangeWrapper",
+	"type" : "normal"
+}

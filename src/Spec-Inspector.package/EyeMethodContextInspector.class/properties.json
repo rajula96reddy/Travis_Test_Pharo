@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "EyeInspector",
+	"category" : "Spec-Inspector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EyeMethodContextInspector",
+	"type" : "normal"
+}

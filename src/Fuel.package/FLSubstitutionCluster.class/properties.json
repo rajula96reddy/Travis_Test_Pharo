@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MartinDias 1/9/2012 15:04",
+	"super" : "FLCluster",
+	"category" : "Fuel-Clusters",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"substitutions",
+		"substitutes"
+	],
+	"name" : "FLSubstitutionCluster",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Model",
+	"category" : "Morphic-Widgets-List",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"item",
+		"model"
+	],
+	"name" : "ListItemWrapper",
+	"type" : "normal"
+}

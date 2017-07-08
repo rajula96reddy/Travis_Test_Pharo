@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GTEventPackingTest",
+	"category" : "GT-EventRecorder-Tests-Support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GTFuelPackingTest",
+	"type" : "normal"
+}

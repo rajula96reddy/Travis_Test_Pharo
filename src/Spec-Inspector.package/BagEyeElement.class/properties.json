@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "IndexedEyeElement",
+	"category" : "Spec-Inspector-Element",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BagEyeElement",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "System-SessionManager-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"manager"
+	],
+	"name" : "SessionManagerRegistrationTest",
+	"type" : "normal"
+}

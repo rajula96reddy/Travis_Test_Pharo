@@ -1,0 +1,27 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Scanner",
+	"category" : "Compiler-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"here",
+		"hereType",
+		"hereMark",
+		"hereEnd",
+		"prevMark",
+		"prevEnd",
+		"encoder",
+		"requestor",
+		"parseNode",
+		"failBlock",
+		"requestorOffset",
+		"tempsMark",
+		"doitFlag",
+		"properties",
+		"category"
+	],
+	"name" : "Parser",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AbstractMorphicAdapter",
+	"category" : "Spec-MorphicAdapters",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isClosedHolder"
+	],
+	"name" : "MorphicWindowAdapter",
+	"type" : "normal"
+}

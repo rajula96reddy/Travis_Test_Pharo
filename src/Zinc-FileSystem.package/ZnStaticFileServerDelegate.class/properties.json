@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Zinc-FileSystem",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"prefix",
+		"directory",
+		"mimeTypeExpirations"
+	],
+	"name" : "ZnStaticFileServerDelegate",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "TorstenBergmann 2/6/2014 08:17",
+	"super" : "CommandLineHandler",
+	"category" : "ConfigurationCommandLineHandler-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"version",
+		"repositoryURL",
+		"configurationName"
+	],
+	"name" : "ConfigurationCommandLineHandler",
+	"type" : "normal"
+}

@@ -1,0 +1,24 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Model",
+	"category" : "SmartSuggestions-Suggestion",
+	"classinstvars" : [
+		"collectorForInstancesVariable",
+		"collectorForTemporaryVariable",
+		"collectorForUndeclaredVariable",
+		"collectorForSourceCode",
+		"collectorForMethod",
+		"collectorForMessage",
+		"collectorForClass",
+		"collectorForClassVariable",
+		"collectorForLiteral",
+		"collectorForAll",
+		"collectorForAssignment",
+		"collectorForBlock"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SugsSuggestionFactory",
+	"type" : "normal"
+}

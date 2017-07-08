@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Kernel-Protocols",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"allProtocol",
+		"protocols"
+	],
+	"name" : "ProtocolOrganizer",
+	"type" : "normal"
+}

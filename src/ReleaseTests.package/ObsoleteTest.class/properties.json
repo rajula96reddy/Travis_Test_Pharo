@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "SteveFreeman 7/17/2010 11:31",
+	"super" : "TestCase",
+	"category" : "ReleaseTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"classFactory"
+	],
+	"name" : "ObsoleteTest",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Nautilus-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nautilus",
+		"lastValue",
+		"compiledMethod",
+		"expectedMethodCategory",
+		"expectedCompiledMethod"
+	],
+	"name" : "PackageTreeNautilusTest",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "OCAbstractScope",
+	"category" : "OpalCompiler-Core-Semantics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"thisContextVar",
+		"tempVars",
+		"copiedVars",
+		"tempVector",
+		"id"
+	],
+	"name" : "OCAbstractMethodScope",
+	"type" : "normal"
+}

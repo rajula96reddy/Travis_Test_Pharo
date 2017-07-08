@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Versionner-Core-DependenciesModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"author",
+		"versionString",
+		"description",
+		"timestamp",
+		"project"
+	],
+	"name" : "MTVersion",
+	"type" : "normal"
+}

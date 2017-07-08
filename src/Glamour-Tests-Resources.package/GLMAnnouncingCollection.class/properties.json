@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Announcer",
+	"category" : "Glamour-Tests-Resources",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"collection"
+	],
+	"name" : "GLMAnnouncingCollection",
+	"type" : "normal"
+}

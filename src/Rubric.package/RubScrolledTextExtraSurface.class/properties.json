@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RubScrolledTextExtra",
+	"category" : "Rubric-Editing-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RubScrolledTextExtraSurface",
+	"type" : "normal"
+}

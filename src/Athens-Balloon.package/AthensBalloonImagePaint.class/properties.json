@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AthensPaint",
+	"category" : "Athens-Balloon",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"form",
+		"origin",
+		"direction",
+		"tileFlag"
+	],
+	"name" : "AthensBalloonImagePaint",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "ClementBer 10/14/2014 14:47",
+	"super" : "IRInstVarAccess",
+	"category" : "OpalCompiler-Core-IR-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IRStoreInstVar",
+	"type" : "normal"
+}

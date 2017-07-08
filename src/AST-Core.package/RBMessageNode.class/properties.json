@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "NicolaiHess 8/2/2016 14:11",
+	"super" : "RBValueNode",
+	"category" : "AST-Core-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"receiver",
+		"selector",
+		"keywordsPositions",
+		"arguments"
+	],
+	"name" : "RBMessageNode",
+	"type" : "normal"
+}

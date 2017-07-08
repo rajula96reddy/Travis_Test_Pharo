@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "AlainPlantec 10/5/2015 15:27",
+	"super" : "RubScrolledTextMorph",
+	"category" : "Rubric-Editing-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"askBeforeDiscardingEdits",
+		"getEnabledSelector"
+	],
+	"name" : "RubPluggableTextMorph",
+	"type" : "normal"
+}

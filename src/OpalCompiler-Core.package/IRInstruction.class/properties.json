@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "OpalCompiler-Core-IR-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sourceNode",
+		"bytecodeIndex",
+		"sequence"
+	],
+	"name" : "IRInstruction",
+	"type" : "normal"
+}

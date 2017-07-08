@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "SvenVanCaekenberghe 8/18/2011 14:48",
+	"super" : "ZnEntity",
+	"category" : "Zinc-HTTP-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream"
+	],
+	"name" : "ZnStreamingEntity",
+	"type" : "normal"
+}

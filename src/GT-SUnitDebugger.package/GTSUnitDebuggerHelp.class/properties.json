@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AndreiChis 1/25/2016 10:14",
+	"super" : "GTDebuggerHelp",
+	"category" : "GT-SUnitDebugger",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GTSUnitDebuggerHelp",
+	"type" : "normal"
+}

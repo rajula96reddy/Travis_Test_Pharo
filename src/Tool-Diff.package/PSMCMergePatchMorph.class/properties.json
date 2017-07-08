@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PSMCPatchMorph",
+	"category" : "Tool-Diff",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PSMCMergePatchMorph",
+	"type" : "normal"
+}

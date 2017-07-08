@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AbstractMethodReferenceConverter",
+	"category" : "Spec-Tools-VersionBrowser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DiffChangeRecordConverter",
+	"type" : "normal"
+}

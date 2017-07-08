@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "STONStreamWriter",
+	"category" : "STON-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STONMapWriter",
+	"type" : "normal"
+}

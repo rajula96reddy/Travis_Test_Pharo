@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "EllipseMorph",
+	"category" : "Morphic-Base-Basic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"referencePosition",
+		"originalCenter",
+		"originalAngle"
+	],
+	"name" : "CircleMorph",
+	"type" : "normal"
+}

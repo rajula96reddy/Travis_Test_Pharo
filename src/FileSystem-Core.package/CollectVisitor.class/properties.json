@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cwp 11/18/2009 12:32",
+	"super" : "AbstractEnumerationVisitor",
+	"category" : "FileSystem-Core-Implementation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CollectVisitor",
+	"type" : "normal"
+}

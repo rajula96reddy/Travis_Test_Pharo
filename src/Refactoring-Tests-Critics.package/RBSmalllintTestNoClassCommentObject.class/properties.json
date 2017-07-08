@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RBSmalllintTestSuperclassObject",
+	"category" : "Refactoring-Tests-Critics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RBSmalllintTestNoClassCommentObject",
+	"type" : "normal"
+}

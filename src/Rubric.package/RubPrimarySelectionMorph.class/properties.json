@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "FranckWarlouzet 7/29/2015 13:15",
+	"super" : "RubPlainSegmentMorph",
+	"category" : "Rubric-Editing-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RubPrimarySelectionMorph",
+	"type" : "normal"
+}

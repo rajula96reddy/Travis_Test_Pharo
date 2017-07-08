@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "RPackageTestCase",
+	"category" : "RPackage-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"emptyOrganizer",
+		"oldAnnouncer"
+	],
+	"name" : "RPackageMCSynchronisationTest",
+	"type" : "normal"
+}

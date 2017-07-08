@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "NECVarTypeGuesser",
+	"category" : "NECompletion-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NECClassVarTypeGuesser",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "STONListWriter",
+	"category" : "STON-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STONShortListWriter",
+	"type" : "normal"
+}

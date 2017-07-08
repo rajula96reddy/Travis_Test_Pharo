@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "KomitRemote",
+	"category" : "Komitter-Models",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KomitGemstoneRemote",
+	"type" : "normal"
+}

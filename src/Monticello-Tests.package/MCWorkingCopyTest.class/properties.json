@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "MCTestCase",
+	"category" : "Monticello-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"workingCopy",
+		"repositoryGroup",
+		"versions",
+		"versions2",
+		"savedName"
+	],
+	"name" : "MCWorkingCopyTest",
+	"type" : "normal"
+}

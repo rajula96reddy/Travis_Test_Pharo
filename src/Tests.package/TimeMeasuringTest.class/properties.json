@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Tests-Traits",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"realTime",
+		"shouldProfile"
+	],
+	"name" : "TimeMeasuringTest",
+	"type" : "normal"
+}

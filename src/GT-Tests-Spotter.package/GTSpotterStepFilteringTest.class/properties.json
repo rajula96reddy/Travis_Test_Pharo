@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GTSpotterStepTest",
+	"category" : "GT-Tests-Spotter-Scripting",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GTSpotterStepFilteringTest",
+	"type" : "normal"
+}

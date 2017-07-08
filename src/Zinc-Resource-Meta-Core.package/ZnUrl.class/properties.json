@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "SvenVanCaekenberghe 2/5/2015 00:00",
+	"super" : "Object",
+	"category" : "Zinc-Resource-Meta-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"scheme",
+		"host",
+		"port",
+		"segments",
+		"query",
+		"fragment",
+		"username",
+		"password"
+	],
+	"name" : "ZnUrl",
+	"type" : "normal"
+}

@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Morph",
+	"category" : "Athens-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"surface",
+		"scene",
+		"session",
+		"transform",
+		"state",
+		"keepRefreshing"
+	],
+	"name" : "AthensSceneView",
+	"type" : "normal"
+}

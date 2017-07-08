@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "RubScrolledTextExtraSurface",
+	"category" : "Rubric-Editing-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tabWidth",
+		"tabLineDashesColors",
+		"tabLineColor",
+		"tabLineDashes",
+		"tabLineWidth"
+	],
+	"name" : "RubColumnDisplayer",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GTSpotter",
+	"category" : "GT-Tests-Spotter-Scripting-Mocks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GTMockSpotter",
+	"type" : "normal"
+}

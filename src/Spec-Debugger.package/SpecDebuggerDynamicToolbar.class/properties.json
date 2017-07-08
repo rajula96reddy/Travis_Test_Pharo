@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "DynamicComposableModel",
+	"category" : "Spec-Debugger",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sessionHolder"
+	],
+	"name" : "SpecDebuggerDynamicToolbar",
+	"type" : "normal"
+}

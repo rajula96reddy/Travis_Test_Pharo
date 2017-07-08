@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "RBRefactoringBrowserTest",
+	"category" : "Refactoring-Tests-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"objectClass",
+		"newClass",
+		"messageNodeClass"
+	],
+	"name" : "RBClassTest",
+	"type" : "normal"
+}

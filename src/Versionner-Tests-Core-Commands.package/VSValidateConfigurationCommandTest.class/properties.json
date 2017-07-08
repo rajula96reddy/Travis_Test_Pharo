@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MBCommandTests",
+	"category" : "Versionner-Tests-Core-Commands",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "VSValidateConfigurationCommandTest",
+	"type" : "normal"
+}

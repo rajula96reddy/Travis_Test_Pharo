@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "GLMExplicitBrowser",
+	"category" : "Glamour-Browsers-Dashboard",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"panesLayouts"
+	],
+	"name" : "GLMDashboard",
+	"type" : "normal"
+}

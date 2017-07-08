@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "InstanceVariableNode",
+	"category" : "Compiler-ParseNodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaybeContextInstanceVariableNode",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "gvc 5/18/2007 10:18",
+	"super" : "TransformMorph",
+	"category" : "Morphic-Widgets-Scrolling",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TransformWithLayoutMorph",
+	"type" : "normal"
+}

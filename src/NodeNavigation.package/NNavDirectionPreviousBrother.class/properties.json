@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "NNavDirectionSibling",
+	"category" : "NodeNavigation-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NNavDirectionPreviousBrother",
+	"type" : "normal"
+}

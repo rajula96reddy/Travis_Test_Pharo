@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "IndexedEyeElement",
+	"category" : "Spec-Inspector-Element",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"externalIndex"
+	],
+	"name" : "SetEyeElement",
+	"type" : "normal"
+}

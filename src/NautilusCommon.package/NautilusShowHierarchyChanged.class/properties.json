@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "NautilusBooleanAnnouncement",
+	"category" : "NautilusCommon-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NautilusShowHierarchyChanged",
+	"type" : "normal"
+}

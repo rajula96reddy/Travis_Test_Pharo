@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "HashedCollection",
+	"category" : "Collections-Unordered",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Set",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SystemNavigationTest",
+	"category" : "Tests-System",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SystemNavigationOnNewlyCreatedEnvironmentTest",
+	"type" : "normal"
+}

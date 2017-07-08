@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "MenuRegistration-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"items",
+		"currentRoot",
+		"platform",
+		"model"
+	],
+	"name" : "PragmaMenuAndShortcutRegistration",
+	"type" : "normal"
+}

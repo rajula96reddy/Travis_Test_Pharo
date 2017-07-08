@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "GLMMorphicTest",
+	"category" : "GT-Tests-Inspector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GTUnprintableObjectTest",
+	"type" : "normal"
+}

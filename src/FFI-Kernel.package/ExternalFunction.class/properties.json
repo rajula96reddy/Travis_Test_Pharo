@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ExternalObject",
+	"category" : "FFI-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [
+		"FFIConstants"
+	],
+	"classvars" : [
+		"FFIErrorMessages"
+	],
+	"instvars" : [
+		"flags",
+		"argTypes"
+	],
+	"name" : "ExternalFunction",
+	"type" : "normal"
+}

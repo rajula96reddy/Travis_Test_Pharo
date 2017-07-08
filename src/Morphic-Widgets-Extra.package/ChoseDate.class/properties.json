@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Announcement",
+	"category" : "Morphic-Widgets-Extra",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"date",
+		"calendar"
+	],
+	"name" : "ChoseDate",
+	"type" : "normal"
+}

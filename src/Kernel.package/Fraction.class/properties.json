@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "VeronicaUquillas 6/11/2010 14:04",
+	"super" : "Number",
+	"category" : "Kernel-Numbers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"numerator",
+		"denominator"
+	],
+	"name" : "Fraction",
+	"type" : "normal"
+}

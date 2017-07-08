@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "nice 12/3/2007 22:15",
+	"super" : "TestCase",
+	"category" : "OpalCompiler-Tests-FromOld",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"errorMessage",
+		"errorLocation",
+		"errorSource",
+		"interactive",
+		"text"
+	],
+	"name" : "OCCompilerTest",
+	"type" : "normal"
+}

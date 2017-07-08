@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Form",
+	"category" : "Athens-Cairo",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"surface"
+	],
+	"name" : "AthensCairoSurfaceForm",
+	"type" : "normal"
+}

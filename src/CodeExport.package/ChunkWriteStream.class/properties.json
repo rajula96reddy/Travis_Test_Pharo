@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "GuillermoPolito 6/12/2015 10:04",
+	"super" : "DecoratorStream",
+	"category" : "CodeExport",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ChunkWriteStream",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AndreiChis 1/8/2016 18:54",
+	"super" : "SugsAbstractContext",
+	"category" : "SmartSuggestions-Menu",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SugsGlamourCodeContext",
+	"type" : "normal"
+}

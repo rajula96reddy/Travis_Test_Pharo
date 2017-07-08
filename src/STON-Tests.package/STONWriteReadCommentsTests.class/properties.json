@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "STONWriteReadTests",
+	"category" : "STON-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STONWriteReadCommentsTests",
+	"type" : "normal"
+}

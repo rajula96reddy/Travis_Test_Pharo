@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MCGitBasedNetworkRepository",
+	"category" : "Metacello-Bitbucket",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MCBitbucketRepository",
+	"type" : "normal"
+}

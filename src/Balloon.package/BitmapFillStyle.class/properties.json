@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "OrientedFillStyle",
+	"category" : "Balloon-Fills",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"form",
+		"tileFlag"
+	],
+	"name" : "BitmapFillStyle",
+	"type" : "normal"
+}

@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "NicolaiHess 8/6/2016 14:57",
+	"super" : "RBMethodRefactoring",
+	"category" : "Refactoring-Core-Refactorings",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"selector",
+		"selectedInterval",
+		"parseTree",
+		"cascadeNode",
+		"beforeNodes",
+		"afterNodes",
+		"ancestorNode"
+	],
+	"name" : "RBSplitCascadeRefactoring",
+	"type" : "normal"
+}

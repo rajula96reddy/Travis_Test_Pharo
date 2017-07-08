@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "ChristopheDemarey 7/8/2015 09:56",
+	"super" : "DADependentPackageNode",
+	"category" : "Tool-DependencyAnalyser-UI-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"messageSendAnalysis"
+	],
+	"name" : "DAPotentialDependenciesNode",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "FranckWarlouzet 7/29/2015 13:11",
+	"super" : "SHRBTextStyler",
+	"category" : "Rubric-Styling",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RubSHTextStylerST80",
+	"type" : "normal"
+}

@@ -1,0 +1,18 @@
+{
+	"classtraitcomposition" : "TEmptyTest classTrait + TCloneTest classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"empty",
+		"nonEmpty"
+	],
+	"name" : "StackTest",
+	"commentStamp" : "TorstenBergmann 2/20/2014 15:31",
+	"super" : "TestCase",
+	"traitcomposition" : "TEmptyTest - {#testIfNotEmptyifEmpty. #testIfEmpty. #testNotEmpty} + (TCloneTest - {#testCopyNonEmpty})",
+	"type" : "normal",
+	"classinstvars" : [
+		"testSize"
+	],
+	"pools" : [ ],
+	"category" : "Collections-Tests-Stack"
+}

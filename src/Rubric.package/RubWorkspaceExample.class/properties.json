@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Rubric-Editing-Widgets-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"textModel",
+		"announcer",
+		"bindings",
+		"mustDeclareVariables"
+	],
+	"name" : "RubWorkspaceExample",
+	"type" : "normal"
+}

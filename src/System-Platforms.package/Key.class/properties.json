@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "System-Platforms",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"KeyTable",
+		"MacosVirtualKeyTable",
+		"UnixVirtualKeyTable",
+		"WindowsVirtualKeyTable"
+	],
+	"instvars" : [
+		"value",
+		"name"
+	],
+	"name" : "Key",
+	"type" : "normal"
+}

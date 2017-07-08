@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MemoryFileSystemEntry",
+	"category" : "FileSystem-Memory",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"entries"
+	],
+	"name" : "MemoryFileSystemDirectory",
+	"type" : "normal"
+}

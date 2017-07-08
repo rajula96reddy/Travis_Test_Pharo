@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ClassTestCase",
+	"category" : "Tests-System-CommandLine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STCommandLineHandlerTest",
+	"type" : "normal"
+}

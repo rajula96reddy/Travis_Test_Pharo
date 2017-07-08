@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MetacelloSpec",
+	"category" : "Metacello-Core-Specs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value"
+	],
+	"name" : "MetacelloValueHolderSpec",
+	"type" : "normal"
+}

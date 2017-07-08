@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "AliakseiSyrel 11/26/2015 19:53",
+	"super" : "AthensPaint",
+	"category" : "Athens-Core-Paints",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"color",
+		"width",
+		"blur",
+		"offset"
+	],
+	"name" : "AthensShadowPaint",
+	"type" : "normal"
+}

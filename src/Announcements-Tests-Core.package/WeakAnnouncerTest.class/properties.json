@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 2/20/2014 15:15",
+	"super" : "AnnouncerTest",
+	"category" : "Announcements-Tests-Core-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WeakAnnouncerTest",
+	"type" : "normal"
+}

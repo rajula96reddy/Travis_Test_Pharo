@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SpecTestCase",
+	"category" : "Spec-Tests-PolyWidgets-Toolbar",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MethodToolbarTest",
+	"type" : "normal"
+}

@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "RubCharacterScanner",
+	"category" : "Rubric-TextScanning",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"characterPoint",
+		"characterIndex",
+		"lastCharacter",
+		"lastCharacterExtent",
+		"lastSpaceOrTabExtent",
+		"nextLeftMargin",
+		"specialWidth"
+	],
+	"name" : "RubCharacterBlockScanner",
+	"type" : "normal"
+}

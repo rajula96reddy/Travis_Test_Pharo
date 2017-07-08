@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Morphic-Core-Worlds",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"StaggerOffset",
+		"StandardSize",
+		"UsedStrategy"
+	],
+	"instvars" : [ ],
+	"name" : "RealEstateAgent",
+	"type" : "normal"
+}

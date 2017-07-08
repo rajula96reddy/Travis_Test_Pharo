@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "LanguageEnvironment",
+	"category" : "Multilingual-OtherLanguages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SimplifiedChineseEnvironment",
+	"type" : "normal"
+}

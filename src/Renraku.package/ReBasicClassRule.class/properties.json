@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "YuriyTymchuk 1/22/2016 20:49",
+	"super" : "ReAbstractRule",
+	"category" : "Renraku-Deprecated",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ReBasicClassRule",
+	"type" : "normal"
+}

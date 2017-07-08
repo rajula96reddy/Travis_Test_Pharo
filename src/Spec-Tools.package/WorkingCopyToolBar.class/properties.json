@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ComposableModel",
+	"category" : "Spec-Tools-Monticello",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"browseButton",
+		"configButton",
+		"packageButton",
+		"sliceButton"
+	],
+	"name" : "WorkingCopyToolBar",
+	"type" : "normal"
+}

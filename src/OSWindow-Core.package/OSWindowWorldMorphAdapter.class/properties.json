@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "RonieSalgado 9/9/2016 18:05",
+	"super" : "MorphicWindowAdapter",
+	"category" : "OSWindow-Core-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OSWindowWorldMorphAdapter",
+	"type" : "normal"
+}

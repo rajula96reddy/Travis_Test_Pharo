@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "RubTextSegmentMorph",
+	"category" : "Rubric-Editing-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"underlineColor",
+		"straight",
+		"underlineShape"
+	],
+	"name" : "RubUnderlinedSegmentMorph",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "ajh 3/24/2003 21:35",
+	"super" : "Object",
+	"category" : "OpalCompiler-Core-Bytecode",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"primitiveNum",
+		"spec"
+	],
+	"name" : "IRPrimitive",
+	"type" : "normal"
+}

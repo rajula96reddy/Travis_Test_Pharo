@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "OSWindow-SDL2-Examples-Touch",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"color",
+		"position",
+		"angle",
+		"objectId",
+		"objectNumber"
+	],
+	"name" : "SDL2TuioObjectStateMachine",
+	"type" : "normal"
+}

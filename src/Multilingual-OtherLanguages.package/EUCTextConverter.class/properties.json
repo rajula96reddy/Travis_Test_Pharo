@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TextConverter",
+	"category" : "Multilingual-OtherLanguages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EUCTextConverter",
+	"type" : "normal"
+}

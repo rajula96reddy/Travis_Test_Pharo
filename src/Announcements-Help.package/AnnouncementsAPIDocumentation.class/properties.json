@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "Tbn 11/12/2010 11:17",
+	"super" : "AnnouncementsHelp",
+	"category" : "Announcements-Help",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AnnouncementsAPIDocumentation",
+	"type" : "normal"
+}

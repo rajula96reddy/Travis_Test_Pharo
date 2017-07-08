@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "Trait3 classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MOPTestClassA",
+	"commentStamp" : "",
+	"super" : "Object",
+	"traitcomposition" : "Trait3",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Tests-Traits-MOP"
+}

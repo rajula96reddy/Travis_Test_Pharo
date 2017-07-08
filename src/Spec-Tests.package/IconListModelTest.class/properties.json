@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ListModelTest",
+	"category" : "Spec-Tests-Core-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IconListModelTest",
+	"type" : "normal"
+}

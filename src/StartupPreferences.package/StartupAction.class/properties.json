@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "StartupPreferences",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"code",
+		"hasBeenExecuted",
+		"runOnce",
+		"nameOfItem",
+		"name"
+	],
+	"name" : "StartupAction",
+	"type" : "normal"
+}

@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "gvc 5/18/2007 11:15",
+	"super" : "Object",
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"color",
+		"lineRange",
+		"bounds",
+		"borderWidth",
+		"borderColor",
+		"borderSides",
+		"fillWidth"
+	],
+	"name" : "TextHighlightByBounds",
+	"type" : "normal"
+}

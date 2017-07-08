@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Rubric-TextScanning",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"surface",
+		"stringIndex",
+		"textLine"
+	],
+	"name" : "RubCharacterBlock",
+	"type" : "normal"
+}

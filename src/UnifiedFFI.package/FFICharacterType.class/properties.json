@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "EstebanLorenzano 9/2/2015 16:11",
+	"super" : "FFIExternalType",
+	"category" : "UnifiedFFI-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FFICharacterType",
+	"type" : "normal"
+}

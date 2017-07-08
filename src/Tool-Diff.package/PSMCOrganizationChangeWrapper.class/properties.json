@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PSMCPatchOperationWrapper",
+	"category" : "Tool-Diff",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PSMCOrganizationChangeWrapper",
+	"type" : "normal"
+}

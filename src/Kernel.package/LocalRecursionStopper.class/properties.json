@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DenisKudryashov 2/9/2017 10:25",
+	"super" : "ProcessLocalVariable",
+	"category" : "Kernel-Processes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LocalRecursionStopper",
+	"type" : "normal"
+}

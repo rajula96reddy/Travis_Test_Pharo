@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ComposableModel",
+	"category" : "Spec-Inspector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"inspector",
+		"history",
+		"canBeRefreshed",
+		"listOfOpenedInspectors",
+		"toolbar"
+	],
+	"name" : "InspectorNavigator",
+	"type" : "normal"
+}

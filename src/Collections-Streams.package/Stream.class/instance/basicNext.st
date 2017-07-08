@@ -1,0 +1,4 @@
+private
+basicNext
+
+	^ self next.

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GoferLoad",
+	"category" : "Metacello-MC-Gofer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MetacelloGoferLoad",
+	"type" : "normal"
+}

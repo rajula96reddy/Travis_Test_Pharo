@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "DialogWindow",
+	"category" : "NautilusCommon-Plugin-Manager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pluginClassesSelectedIndex",
+		"pluginClassesSelected",
+		"pluginsSelected",
+		"pluginsList",
+		"tree",
+		"textModel"
+	],
+	"name" : "NautilusPluginManager",
+	"type" : "normal"
+}

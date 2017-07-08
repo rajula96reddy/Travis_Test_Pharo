@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AndreiChis 1/8/2016 15:52",
+	"super" : "TestCase",
+	"category" : "Tools-Test-Debugger",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SpecDebuggerTest",
+	"type" : "normal"
+}

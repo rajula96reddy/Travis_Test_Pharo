@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "laza 1/18/2011 12:04",
+	"super" : "Model",
+	"category" : "Tool-SystemReporter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"categories",
+		"categoriesSelected",
+		"report",
+		"categoryList",
+		"sourceTextModel"
+	],
+	"name" : "SystemReporter",
+	"type" : "normal"
+}

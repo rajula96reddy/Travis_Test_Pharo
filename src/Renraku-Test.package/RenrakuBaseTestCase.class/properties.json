@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "YuriyTymchuk 6/14/2016 13:48",
+	"super" : "TestCase",
+	"category" : "Renraku-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"testPackage"
+	],
+	"name" : "RenrakuBaseTestCase",
+	"type" : "normal"
+}

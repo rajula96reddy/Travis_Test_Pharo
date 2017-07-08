@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MarcusDenker 3/3/2017 10:17",
+	"super" : "Object",
+	"category" : "Announcements-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"registry"
+	],
+	"name" : "Announcer",
+	"type" : "normal"
+}

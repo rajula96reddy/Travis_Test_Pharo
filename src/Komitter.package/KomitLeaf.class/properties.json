@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "KomitNode",
+	"category" : "Komitter-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KomitLeaf",
+	"type" : "normal"
+}

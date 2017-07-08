@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "System-Support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Current"
+	],
+	"instvars" : [
+		"version",
+		"date",
+		"highestUpdate",
+		"updates",
+		"type",
+		"major",
+		"minor",
+		"suffix",
+		"commitHash"
+	],
+	"name" : "SystemVersion",
+	"type" : "normal"
+}

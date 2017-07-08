@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "RubLipsumBasicExample",
+	"category" : "Rubric-Editing-Widgets-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RubLipsumWithSegmentsExample",
+	"type" : "normal"
+}

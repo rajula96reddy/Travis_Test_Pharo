@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "md 8/9/2005 14:56",
+	"super" : "RBBlockNode",
+	"category" : "AST-Core-Pattern",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"valueBlock"
+	],
+	"name" : "RBPatternBlockNode",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "RonieSalgado 4/10/2016 02:07",
+	"super" : "OSWindowGenericRenderer",
+	"category" : "OSWindow-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OSWindowNullGenericRenderer",
+	"type" : "normal"
+}

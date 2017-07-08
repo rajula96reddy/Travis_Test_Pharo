@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "YuriyTymchuk 1/14/2016 15:04",
+	"super" : "Object",
+	"category" : "Renraku-Critiques",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"action",
+		"icon",
+		"description"
+	],
+	"name" : "RePropertyAction",
+	"type" : "normal"
+}

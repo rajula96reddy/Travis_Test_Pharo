@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "gvc 5/18/2007 14:51",
+	"super" : "MessageDialogWindow",
+	"category" : "Polymorph-Widgets-Windows",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ErrorDialogWindow",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "EstebanLorenzano 3/6/2017 11:52",
+	"super" : "DynamicLoader",
+	"category" : "UnifiedFFI-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "UnixDynamicLoader",
+	"type" : "normal"
+}

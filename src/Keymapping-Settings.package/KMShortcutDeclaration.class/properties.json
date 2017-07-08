@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "SettingDeclaration",
+	"category" : "Keymapping-Settings",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"categoryName",
+		"declaration",
+		"shortcutName"
+	],
+	"name" : "KMShortcutDeclaration",
+	"type" : "normal"
+}

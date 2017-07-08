@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GoferCleanup",
+	"category" : "Metacello-TestsMC",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MetacelloTestsGoferCleanup",
+	"type" : "normal"
+}

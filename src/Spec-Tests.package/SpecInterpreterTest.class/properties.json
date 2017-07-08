@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "Spec-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"specInterpreter",
+		"specInterpreterClass"
+	],
+	"name" : "SpecInterpreterTest",
+	"type" : "normal"
+}

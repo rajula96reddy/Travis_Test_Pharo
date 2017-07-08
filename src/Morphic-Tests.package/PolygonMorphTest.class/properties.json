@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "nice 2/16/2008 02:13",
+	"super" : "MorphTest",
+	"category" : "Morphic-Tests-Basic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PolygonMorphTest",
+	"type" : "normal"
+}

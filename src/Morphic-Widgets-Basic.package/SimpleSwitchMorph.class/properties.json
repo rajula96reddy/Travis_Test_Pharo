@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "StephaneDucasse 3/9/2012 12:45",
+	"super" : "SimpleButtonMorph",
+	"category" : "Morphic-Widgets-Basic-Buttons",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"onColor",
+		"offColor"
+	],
+	"name" : "SimpleSwitchMorph",
+	"type" : "normal"
+}

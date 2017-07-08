@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "InformationLinePlugin",
+	"category" : "NautilusCommon-Plugin",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AnnotationPanePlugin",
+	"type" : "normal"
+}

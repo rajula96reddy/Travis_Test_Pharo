@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "NautilusCommon",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"selectedPackage",
+		"selectedCategory",
+		"selectedSelector",
+		"selectedClass",
+		"selectedGroup",
+		"showHierarchy",
+		"sortHierarchically",
+		"showComment",
+		"showInstance",
+		"showCategories"
+	],
+	"name" : "NautilusHistoryEntry",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ClassTestCase",
+	"category" : "Tests-Files",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FileStreamTest",
+	"type" : "normal"
+}

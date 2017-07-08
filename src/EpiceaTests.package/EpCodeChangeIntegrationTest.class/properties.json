@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "EpEnabledIntegrationTest",
+	"category" : "EpiceaTests-Integration",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"aClass"
+	],
+	"name" : "EpCodeChangeIntegrationTest",
+	"type" : "normal"
+}

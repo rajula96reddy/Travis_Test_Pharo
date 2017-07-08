@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "GuillermoPolito 5/30/2016 10:05",
+	"super" : "Association",
+	"category" : "System-Finalization",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"container"
+	],
+	"name" : "Ephemeron",
+	"type" : "ephemeron"
+}

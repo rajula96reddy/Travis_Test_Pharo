@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 2/3/2014 23:03",
+	"super" : "Error",
+	"category" : "Compression-Streams",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CRCError",
+	"type" : "normal"
+}

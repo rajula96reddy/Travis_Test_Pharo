@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "VeronicaUquillas 4/19/2011 15:52",
+	"super" : "RGDefinition",
+	"category" : "Ring-Core-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RGGlobalDefinition",
+	"type" : "normal"
+}

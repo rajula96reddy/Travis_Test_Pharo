@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MartinDias 6/24/2015 14:59",
+	"super" : "Announcement",
+	"category" : "Jobs-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"job"
+	],
+	"name" : "JobAnnouncement",
+	"type" : "normal"
+}

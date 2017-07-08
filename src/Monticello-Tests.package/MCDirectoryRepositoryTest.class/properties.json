@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MCRepositoryTest",
+	"category" : "Monticello-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"directory"
+	],
+	"name" : "MCDirectoryRepositoryTest",
+	"type" : "normal"
+}

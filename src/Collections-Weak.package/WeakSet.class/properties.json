@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "IgorStasenko 3/22/2011 16:25",
+	"super" : "Set",
+	"category" : "Collections-Weak",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"flag"
+	],
+	"name" : "WeakSet",
+	"type" : "normal"
+}

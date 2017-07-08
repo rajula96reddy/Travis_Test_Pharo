@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "monty 10/1/2016 02:03",
+	"super" : "TestCase",
+	"category" : "Collections-Tests-Sequenceable",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nonIdentityOrderedAssociations",
+		"identityOrderedAssociations"
+	],
+	"name" : "OrderedDictionaryTest",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "SeanDeNigris 2/20/2014 08:53",
+	"super" : "Morph",
+	"category" : "SUnit-UITesting",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"menu",
+		"receivedBlueButtonUp",
+		"receivedBlueButtonDown"
+	],
+	"name" : "MorphHandlingMiddleButton",
+	"type" : "normal"
+}

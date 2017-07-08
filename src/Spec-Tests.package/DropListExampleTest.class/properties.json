@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SpecTestCase",
+	"category" : "Spec-Tests-Examples-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DropListExampleTest",
+	"type" : "normal"
+}

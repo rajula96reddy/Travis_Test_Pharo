@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "MartinDias 8/29/2011 19:06",
+	"super" : "Object",
+	"category" : "Fuel-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"materializationFactory",
+		"signature",
+		"version",
+		"migrations",
+		"globalEnvironment"
+	],
+	"name" : "FLMaterializer",
+	"type" : "normal"
+}

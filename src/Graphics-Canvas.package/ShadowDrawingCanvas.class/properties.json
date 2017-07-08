@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "LaurentLaffont 2/23/2011 20:17",
+	"super" : "ColorMappingCanvas",
+	"category" : "Graphics-Canvas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"shadowColor"
+	],
+	"name" : "ShadowDrawingCanvas",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MerwanOuddane 7/22/2015 16:12",
+	"super" : "OSTouchDirectionnalGestureDetector",
+	"category" : "OSWindow-Core-Gestures",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"direction"
+	],
+	"name" : "OSTouchOneDirectionGestureDetector",
+	"type" : "normal"
+}

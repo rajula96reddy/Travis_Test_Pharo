@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "MarcusDenker 6/24/2014 10:13",
+	"super" : "Link",
+	"category" : "Kernel-Processes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"InheritablePSKeys",
+		"PSKeys",
+		"PSKeysSema"
+	],
+	"instvars" : [
+		"suspendedContext",
+		"priority",
+		"myList",
+		"name",
+		"env",
+		"effectiveProcess",
+		"terminating"
+	],
+	"name" : "Process",
+	"type" : "normal"
+}

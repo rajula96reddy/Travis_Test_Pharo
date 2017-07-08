@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AndreiChis 10/1/2014 13:35",
+	"super" : "RubNotificationStrategy",
+	"category" : "Rubric-Editing-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RubTextInsertionStrategy",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cyrilledelaunay 1/18/2011 13:06",
+	"super" : "MethodAnnouncement",
+	"category" : "System-Announcements-System-Methods",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MethodAdded",
+	"type" : "normal"
+}

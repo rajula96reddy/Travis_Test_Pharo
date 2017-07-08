@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "FFI-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [
+		"FFIConstants"
+	],
+	"classvars" : [
+		"AtomicSelectors",
+		"AtomicTypeNames",
+		"AtomicTypes",
+		"StructTypes"
+	],
+	"instvars" : [
+		"compiledSpec",
+		"referentClass",
+		"referencedType",
+		"pointerSize"
+	],
+	"name" : "ExternalType",
+	"type" : "normal"
+}

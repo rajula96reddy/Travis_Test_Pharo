@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Notification",
+	"category" : "OpalCompiler-Core-Exception",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"inClass",
+		"code",
+		"doitFlag",
+		"location"
+	],
+	"name" : "SyntaxErrorNotification",
+	"type" : "normal"
+}

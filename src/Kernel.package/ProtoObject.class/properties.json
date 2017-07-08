@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "nil",
+	"category" : "Kernel-Objects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ProtoObject",
+	"type" : "normal"
+}

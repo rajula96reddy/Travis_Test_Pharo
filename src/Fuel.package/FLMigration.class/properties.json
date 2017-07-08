@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "MartinDias 1/6/2012 16:04",
+	"super" : "Object",
+	"category" : "Fuel-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sourceClassName",
+		"variables",
+		"targetClass"
+	],
+	"name" : "FLMigration",
+	"type" : "normal"
+}

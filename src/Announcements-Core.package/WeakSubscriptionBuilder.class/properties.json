@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "IgorStasenko 3/12/2011 20:37",
+	"super" : "Object",
+	"category" : "Announcements-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"announcer"
+	],
+	"name" : "WeakSubscriptionBuilder",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ToggleMenuItemShortcut",
+	"category" : "Morphic-Base-Menus",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SymbolFont",
+		"SymbolTable"
+	],
+	"instvars" : [ ],
+	"name" : "ToggleMenuItemShortcutWithSymbol",
+	"type" : "normal"
+}

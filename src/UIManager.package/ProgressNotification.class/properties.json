@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Notification",
+	"category" : "UIManager-Support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"amount",
+		"done",
+		"extra"
+	],
+	"name" : "ProgressNotification",
+	"type" : "normal"
+}

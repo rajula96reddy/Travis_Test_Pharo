@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Spirita 7/28/2016 14:34",
+	"super" : "ComposableModel",
+	"category" : "Spec-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"listModel",
+		"textModel",
+		"toolbarModel"
+	],
+	"name" : "MethodBrowser",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "StephaneDucasse 11/29/2011 22:23",
+	"super" : "MCTool",
+	"category" : "MonticelloGUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"configuration",
+		"dependencyIndex",
+		"repositoryIndex"
+	],
+	"name" : "MCConfigurationBrowser",
+	"type" : "normal"
+}

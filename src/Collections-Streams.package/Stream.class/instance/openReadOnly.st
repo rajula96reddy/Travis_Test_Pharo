@@ -1,0 +1,3 @@
+open/close
+openReadOnly
+	^self

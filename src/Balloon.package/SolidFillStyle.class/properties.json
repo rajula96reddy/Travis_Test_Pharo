@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "FillStyle",
+	"category" : "Balloon-Fills",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"color",
+		"pixelValue32"
+	],
+	"name" : "SolidFillStyle",
+	"type" : "normal"
+}

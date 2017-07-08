@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MartinDias 3/17/2016 23:46",
+	"super" : "Object",
+	"category" : "Hiedra-Rendering",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"athensCanvas"
+	],
+	"name" : "HiRenderer",
+	"type" : "normal"
+}

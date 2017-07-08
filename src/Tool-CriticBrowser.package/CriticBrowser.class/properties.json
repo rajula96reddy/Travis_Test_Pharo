@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ComposableModel",
+	"category" : "Tool-CriticBrowser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"criticModel",
+		"rulesModel",
+		"checker",
+		"title",
+		"rbEnvironment",
+		"removeTestCase",
+		"cache",
+		"resetButton",
+		"logButton"
+	],
+	"name" : "CriticBrowser",
+	"type" : "normal"
+}

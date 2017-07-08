@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MarcusDenker 5/30/2016 11:11",
+	"super" : "CannotReturn",
+	"category" : "Kernel-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"home"
+	],
+	"name" : "BlockCannotReturn",
+	"type" : "normal"
+}

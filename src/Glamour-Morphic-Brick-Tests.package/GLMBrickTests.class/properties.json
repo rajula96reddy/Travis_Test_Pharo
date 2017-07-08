@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Glamour-Morphic-Brick-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"layouter"
+	],
+	"name" : "GLMBrickTests",
+	"type" : "normal"
+}

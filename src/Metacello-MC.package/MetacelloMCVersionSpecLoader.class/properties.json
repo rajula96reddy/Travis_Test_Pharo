@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Metacello-MC-Loaders",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"versionSpec",
+		"required",
+		"packages",
+		"loader",
+		"loaderPolicy"
+	],
+	"name" : "MetacelloMCVersionSpecLoader",
+	"type" : "normal"
+}

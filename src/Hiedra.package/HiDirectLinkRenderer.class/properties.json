@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "HiLinkRenderer",
+	"category" : "Hiedra-Rendering",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HiDirectLinkRenderer",
+	"type" : "normal"
+}

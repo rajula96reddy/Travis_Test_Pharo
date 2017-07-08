@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MetacelloProjectSpecLoadError",
+	"category" : "Metacello-Core-Exceptions-Errors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MetacelloProjectSpecLoadConflict",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "RPackageAnnouncement",
+	"category" : "RPackage-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"oldName",
+		"newName"
+	],
+	"name" : "RPackageRenamed",
+	"type" : "normal"
+}

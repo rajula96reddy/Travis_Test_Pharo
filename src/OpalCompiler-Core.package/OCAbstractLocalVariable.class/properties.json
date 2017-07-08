@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "OCAbstractVariable",
+	"category" : "OpalCompiler-Core-Semantics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name"
+	],
+	"name" : "OCAbstractLocalVariable",
+	"type" : "normal"
+}

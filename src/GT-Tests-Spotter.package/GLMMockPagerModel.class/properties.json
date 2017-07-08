@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GLMPagerModel",
+	"category" : "GT-Tests-Spotter-Scripting-Mocks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GLMMockPagerModel",
+	"type" : "normal"
+}

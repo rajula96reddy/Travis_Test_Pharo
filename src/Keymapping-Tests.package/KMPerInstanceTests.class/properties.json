@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractKeymappingTest",
+	"category" : "Keymapping-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KMPerInstanceTests",
+	"type" : "normal"
+}

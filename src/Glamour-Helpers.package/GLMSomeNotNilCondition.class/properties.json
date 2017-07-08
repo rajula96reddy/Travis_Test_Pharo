@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AndreiChis 3/11/2015 23:59",
+	"super" : "GLMCondition",
+	"category" : "Glamour-Helpers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GLMSomeNotNilCondition",
+	"type" : "normal"
+}

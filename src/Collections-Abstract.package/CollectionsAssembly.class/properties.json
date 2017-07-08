@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "ChristopheDemarey 6/23/2015 10:52",
+	"super" : "AssemblyManifest",
+	"category" : "Collections-Abstract",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CollectionsAssembly",
+	"type" : "normal"
+}

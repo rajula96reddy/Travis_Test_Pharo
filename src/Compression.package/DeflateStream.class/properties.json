@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "LaurentLaffont 6/8/2011 22:23",
+	"super" : "WriteStream",
+	"category" : "Compression-Streams",
+	"classinstvars" : [ ],
+	"pools" : [
+		"ZipConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"hashHead",
+		"hashTail",
+		"hashValue",
+		"blockPosition",
+		"blockStart"
+	],
+	"name" : "DeflateStream",
+	"type" : "normal"
+}

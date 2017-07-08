@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MartinDias 6/24/2015 13:52",
+	"super" : "DynamicVariable",
+	"category" : "Jobs-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CurrentJob",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+button-variables
+browseVariablesButtonLabel
+
+	^ 'Variables'

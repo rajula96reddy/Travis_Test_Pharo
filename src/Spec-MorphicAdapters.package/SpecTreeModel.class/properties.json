@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MorphTreeModel",
+	"category" : "Spec-MorphicAdapters-Support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"model",
+		"rootNodes"
+	],
+	"name" : "SpecTreeModel",
+	"type" : "normal"
+}

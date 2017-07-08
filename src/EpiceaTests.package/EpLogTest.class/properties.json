@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "EpiceaTests-Log",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"log",
+		"logBuilder"
+	],
+	"name" : "EpLogTest",
+	"type" : "normal"
+}

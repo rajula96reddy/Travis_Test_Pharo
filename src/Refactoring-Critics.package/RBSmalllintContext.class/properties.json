@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Refactoring-Critics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"class",
+		"selector",
+		"parseTree",
+		"literals",
+		"literalSemaphore",
+		"literalProcess",
+		"selectors",
+		"compiledMethod",
+		"selfMessages",
+		"superMessages",
+		"messages"
+	],
+	"name" : "RBSmalllintContext",
+	"type" : "normal"
+}

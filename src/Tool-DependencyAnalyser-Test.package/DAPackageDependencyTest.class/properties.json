@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Tool-DependencyAnalyser-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"aPackageDependency",
+		"anInternalPackageDependency",
+		"packageA",
+		"packageB"
+	],
+	"name" : "DAPackageDependencyTest",
+	"type" : "normal"
+}

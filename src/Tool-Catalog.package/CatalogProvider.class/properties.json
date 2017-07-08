@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "SvenVanCaekenberghe 4/1/2016 14:00",
+	"super" : "Object",
+	"category" : "Tool-Catalog-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Default"
+	],
+	"instvars" : [
+		"projects",
+		"lastModified",
+		"session"
+	],
+	"name" : "CatalogProvider",
+	"type" : "normal"
+}

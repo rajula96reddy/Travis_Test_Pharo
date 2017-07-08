@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "NECUntypedModel",
+	"category" : "NECompletion-OCompletion",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"table",
+		"expand",
+		"context",
+		"nextModel",
+		"classTable"
+	],
+	"name" : "NOCModel",
+	"type" : "normal"
+}

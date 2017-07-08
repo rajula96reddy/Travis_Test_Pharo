@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "IRAccess",
+	"category" : "OpalCompiler-Core-IR-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IRPushReceiver",
+	"type" : "normal"
+}

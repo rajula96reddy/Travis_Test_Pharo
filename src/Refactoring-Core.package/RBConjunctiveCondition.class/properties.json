@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "NicolaiHess 5/19/2016 16:40",
+	"super" : "RBAbstractCondition",
+	"category" : "Refactoring-Core-Conditions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"left",
+		"right",
+		"failed"
+	],
+	"name" : "RBConjunctiveCondition",
+	"type" : "normal"
+}

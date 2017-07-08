@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MarianoMartinezPeck 10/23/2011 14:39",
+	"super" : "FLGlobalCluster",
+	"category" : "Fuel-Clusters",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"globalSends"
+	],
+	"name" : "FLGlobalSendCluster",
+	"type" : "normal"
+}

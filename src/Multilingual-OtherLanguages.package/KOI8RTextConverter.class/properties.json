@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ByteTextConverter",
+	"category" : "Multilingual-OtherLanguages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KOI8RTextConverter",
+	"type" : "normal"
+}

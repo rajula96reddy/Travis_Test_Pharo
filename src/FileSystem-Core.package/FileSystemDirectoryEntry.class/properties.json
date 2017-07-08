@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "cwp 11/18/2009 11:09",
+	"super" : "Object",
+	"category" : "FileSystem-Core-Public",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"reference",
+		"creation",
+		"modification",
+		"isDirectory",
+		"isSymlink",
+		"size",
+		"posixPermissions"
+	],
+	"name" : "FileSystemDirectoryEntry",
+	"type" : "normal"
+}

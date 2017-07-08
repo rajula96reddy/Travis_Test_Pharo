@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "GuillermoPolito 4/10/2015 10:50",
+	"super" : "TestCase",
+	"category" : "OpalCompiler-Tests-FromOld",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OCContextTempMappingTest",
+	"type" : "normal"
+}

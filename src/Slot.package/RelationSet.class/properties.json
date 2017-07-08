@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "JanVanDeSandt 2/27/2015 11:25",
+	"super" : "Collection",
+	"category" : "Slot-Examples-Associations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"owner",
+		"slot",
+		"set"
+	],
+	"name" : "RelationSet",
+	"type" : "normal"
+}

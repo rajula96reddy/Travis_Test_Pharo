@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Model",
+	"category" : "Network-Mail",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SmtpServer"
+	],
+	"instvars" : [
+		"messageText",
+		"morphicWindow",
+		"textModel"
+	],
+	"name" : "MailComposition",
+	"type" : "normal"
+}

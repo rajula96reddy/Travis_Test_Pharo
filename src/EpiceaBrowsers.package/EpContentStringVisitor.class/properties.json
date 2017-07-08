@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "MartinDias 10/27/2014 18:05",
+	"super" : "EpEntryContentVisitor",
+	"category" : "EpiceaBrowsers-Visitors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EpContentStringVisitor",
+	"type" : "normal"
+}

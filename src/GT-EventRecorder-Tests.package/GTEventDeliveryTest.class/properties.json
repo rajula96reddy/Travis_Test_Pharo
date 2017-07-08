@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "GT-EventRecorder-Tests-Support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"delivery",
+		"announcer",
+		"semaphore"
+	],
+	"name" : "GTEventDeliveryTest",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "tbn 4/30/2010 15:35",
+	"super" : "Object",
+	"category" : "HelpSystem-Core-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SystemReference",
+	"type" : "normal"
+}

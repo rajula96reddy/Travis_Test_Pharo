@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "GT-EventRecorder-Tests-Support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bundle",
+		"data",
+		"category",
+		"url",
+		"entity"
+	],
+	"name" : "GTEventBundleTest",
+	"type" : "normal"
+}

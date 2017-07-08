@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "SvenVanCaekenberghe 2/9/2015 15:23",
+	"super" : "Association",
+	"category" : "System-Caching",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timestamp"
+	],
+	"name" : "TTLAssociation",
+	"type" : "normal"
+}

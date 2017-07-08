@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "alain.plantec 10/20/2009 11:14",
+	"super" : "Announcement",
+	"category" : "PragmaCollector",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"collector"
+	],
+	"name" : "PragmaCollectorReset",
+	"type" : "normal"
+}

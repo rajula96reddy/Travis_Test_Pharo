@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 2/12/2014 23:22",
+	"super" : "TestCase",
+	"category" : "Shout-Tests-Parsing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SHParserST80Test",
+	"type" : "normal"
+}

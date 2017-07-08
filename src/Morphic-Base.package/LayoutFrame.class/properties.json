@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Morphic-Base-Layouts",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"leftFraction",
+		"leftOffset",
+		"topFraction",
+		"topOffset",
+		"rightFraction",
+		"rightOffset",
+		"bottomFraction",
+		"bottomOffset"
+	],
+	"name" : "LayoutFrame",
+	"type" : "normal"
+}

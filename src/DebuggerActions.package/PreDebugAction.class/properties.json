@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MessageSendDebugAction",
+	"category" : "DebuggerActions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"preDebugWindow"
+	],
+	"name" : "PreDebugAction",
+	"type" : "normal"
+}

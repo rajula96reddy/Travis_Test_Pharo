@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "DF 5/25/2006 19:54",
+	"super" : "Object",
+	"category" : "Kernel-Messaging",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"receiver",
+		"selector",
+		"arguments"
+	],
+	"name" : "MessageSend",
+	"type" : "normal"
+}

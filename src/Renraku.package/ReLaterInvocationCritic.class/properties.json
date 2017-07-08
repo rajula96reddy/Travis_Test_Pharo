@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "YuriyTymchuk 9/2/2016 22:37",
+	"super" : "ReLaterInvocationCritique",
+	"category" : "Renraku-Critiques",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ReLaterInvocationCritic",
+	"type" : "normal"
+}

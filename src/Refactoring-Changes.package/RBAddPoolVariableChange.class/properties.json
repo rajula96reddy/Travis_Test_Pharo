@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "NicolaiHess 9/9/2016 20:40",
+	"super" : "RBRefactoryVariableChange",
+	"category" : "Refactoring-Changes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RBAddPoolVariableChange",
+	"type" : "normal"
+}

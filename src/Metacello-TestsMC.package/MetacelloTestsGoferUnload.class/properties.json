@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GoferUnload",
+	"category" : "Metacello-TestsMC",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MetacelloTestsGoferUnload",
+	"type" : "normal"
+}

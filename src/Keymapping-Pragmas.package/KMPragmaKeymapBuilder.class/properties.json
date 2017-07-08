@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Keymapping-Pragmas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"UniqueInstace"
+	],
+	"instvars" : [
+		"pragmaKeywords",
+		"model",
+		"pragmaCollector"
+	],
+	"name" : "KMPragmaKeymapBuilder",
+	"type" : "normal"
+}

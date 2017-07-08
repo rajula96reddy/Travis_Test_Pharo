@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "NicolaiHess 8/6/2016 14:34",
+	"super" : "RBMethodRefactoring",
+	"category" : "Refactoring-Core-Refactorings",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sourceInterval",
+		"inlineParseTree",
+		"sourceParseTree",
+		"sourceSelector",
+		"sourceMessage",
+		"inlineClass"
+	],
+	"name" : "RBInlineMethodRefactoring",
+	"type" : "normal"
+}

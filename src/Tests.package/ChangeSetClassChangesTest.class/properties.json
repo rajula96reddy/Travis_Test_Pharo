@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "dtl 2/19/2005 13:21",
+	"super" : "TestCase",
+	"category" : "Tests-System",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ChangeSetClassChangesTest",
+	"type" : "normal"
+}

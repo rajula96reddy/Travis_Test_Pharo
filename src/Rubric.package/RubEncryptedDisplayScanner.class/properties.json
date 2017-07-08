@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RubDisplayScanner",
+	"category" : "Rubric-TextScanning",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RubEncryptedDisplayScanner",
+	"type" : "normal"
+}

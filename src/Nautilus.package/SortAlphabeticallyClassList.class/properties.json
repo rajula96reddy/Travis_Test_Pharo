@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "NicolaiHess 9/7/2014 00:35",
+	"super" : "Object",
+	"category" : "Nautilus",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"list"
+	],
+	"name" : "SortAlphabeticallyClassList",
+	"type" : "normal"
+}

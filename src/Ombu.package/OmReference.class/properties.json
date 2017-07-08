@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MartinDias 4/14/2014 23:27",
+	"super" : "OmAbstractReference",
+	"category" : "Ombu-Entries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"localName",
+		"globalName"
+	],
+	"name" : "OmReference",
+	"type" : "normal"
+}

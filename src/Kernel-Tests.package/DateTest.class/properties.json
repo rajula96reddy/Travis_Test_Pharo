@@ -1,0 +1,17 @@
+{
+	"classtraitcomposition" : "TDateTimeTest classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"aTime",
+		"january23rd2004",
+		"june2nd1973"
+	],
+	"name" : "DateTest",
+	"commentStamp" : "brp 7/26/2003 16:58",
+	"super" : "ClassTestCase",
+	"traitcomposition" : "TDateTimeTest",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Kernel-Tests-Chronology"
+}

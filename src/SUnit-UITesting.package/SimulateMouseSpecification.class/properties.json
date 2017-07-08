@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "UITestCase",
+	"category" : "SUnit-UITesting",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"morph"
+	],
+	"name" : "SimulateMouseSpecification",
+	"type" : "normal"
+}

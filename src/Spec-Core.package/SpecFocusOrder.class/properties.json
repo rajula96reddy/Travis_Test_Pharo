@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "Spirita 6/30/2016 16:42",
+	"super" : "Object",
+	"category" : "Spec-Core-Support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"presenters"
+	],
+	"name" : "SpecFocusOrder",
+	"type" : "normal"
+}

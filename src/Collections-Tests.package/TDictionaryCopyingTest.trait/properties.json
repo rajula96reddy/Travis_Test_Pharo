@@ -1,0 +1,7 @@
+{
+	"commentStamp" : "TorstenBergmann 2/20/2014 15:33",
+	"traitcomposition" : "TCloneTest",
+	"classtraitcomposition" : "TCloneTest classTrait",
+	"category" : "Collections-Tests-Unordered",
+	"name" : "TDictionaryCopyingTest"
+}

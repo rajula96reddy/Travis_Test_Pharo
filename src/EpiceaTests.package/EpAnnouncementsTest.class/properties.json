@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "EpMonitorIntegrationTest",
+	"category" : "EpiceaTests-Integration",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EpAnnouncementsTest",
+	"type" : "normal"
+}

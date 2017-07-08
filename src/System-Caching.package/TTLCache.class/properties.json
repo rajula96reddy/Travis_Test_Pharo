@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "LRUCache",
+	"category" : "System-Caching",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timeToLive"
+	],
+	"name" : "TTLCache",
+	"type" : "normal"
+}

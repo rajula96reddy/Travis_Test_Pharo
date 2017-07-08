@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "TorstenBergmann 2/5/2014 10:11",
+	"super" : "ClassTestCase",
+	"category" : "Network-Tests-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"clientStream",
+		"serverStream"
+	],
+	"name" : "SocketStreamTest",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+testing
+hasDefault
+	^ default ~~ UniqueObject

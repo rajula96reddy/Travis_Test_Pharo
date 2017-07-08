@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "dkh 7/28/2012 20:04",
+	"super" : "Object",
+	"category" : "Metacello-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"executorSpec",
+		"statements"
+	],
+	"name" : "Metacello",
+	"type" : "normal"
+}

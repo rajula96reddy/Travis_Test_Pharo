@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 2/12/2014 23:06",
+	"super" : "RGAbstractContainer",
+	"category" : "Ring-Core-Containers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RGOrganization",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "YuriyTymchuk 8/23/2015 13:42",
+	"super" : "ReMultipleCritiquesEvent",
+	"category" : "Renraku-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ReEntityCriticized",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ClassTestCase",
+	"category" : "Kernel-Tests-Chronology",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"aDuration"
+	],
+	"name" : "DurationTest",
+	"type" : "normal"
+}

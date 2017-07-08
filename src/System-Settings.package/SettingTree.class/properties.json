@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "AlainPlantec 1/2/2011 22:56",
+	"super" : "Model",
+	"category" : "System-Settings-Browser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"collector",
+		"nodeList",
+		"persistence"
+	],
+	"name" : "SettingTree",
+	"type" : "normal"
+}

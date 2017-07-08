@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ComposableModel",
+	"category" : "Spec-Tools-ChangeSorter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"model",
+		"changesListModel",
+		"classesListModel",
+		"methodsListModel",
+		"textModel",
+		"prettyPrint",
+		"showDiff",
+		"prettyButton",
+		"diffButton"
+	],
+	"name" : "ChangeSorterApplication",
+	"type" : "normal"
+}

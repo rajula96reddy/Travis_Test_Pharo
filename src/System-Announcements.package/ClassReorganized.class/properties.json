@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cyrilledelaunay 1/18/2011 15:03",
+	"super" : "ClassAnnouncement",
+	"category" : "System-Announcements-System-Classes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"classReorganized"
+	],
+	"name" : "ClassReorganized",
+	"type" : "normal"
+}

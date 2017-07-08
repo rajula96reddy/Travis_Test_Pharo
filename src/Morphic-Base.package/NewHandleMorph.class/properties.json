@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "HandleMorph",
+	"category" : "Morphic-Base-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hand",
+		"waitingForClickInside"
+	],
+	"name" : "NewHandleMorph",
+	"type" : "normal"
+}

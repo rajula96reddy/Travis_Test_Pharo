@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "StephaneDucasse 12/13/2011 15:57",
+	"super" : "Object",
+	"category" : "Kernel-Tests-Classes",
+	"classinstvars" : [ ],
+	"pools" : [
+		"PoolDefiner"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RootClassPoolUser",
+	"type" : "normal"
+}

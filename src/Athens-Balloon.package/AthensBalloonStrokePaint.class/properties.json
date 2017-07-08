@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AthensStrokePaint",
+	"category" : "Athens-Balloon",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AthensBalloonStrokePaint",
+	"type" : "normal"
+}

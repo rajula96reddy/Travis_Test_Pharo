@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "Spirita 6/29/2016 11:29",
+	"super" : "AbstractFormButtonModel",
+	"category" : "Spec-Core-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"canDeselectByClick"
+	],
+	"name" : "RadioButtonModel",
+	"type" : "normal"
+}

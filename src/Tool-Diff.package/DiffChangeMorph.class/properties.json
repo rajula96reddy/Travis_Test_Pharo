@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposableMorph",
+	"category" : "Tool-Diff",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"diffMorph",
+		"descriptionMorph"
+	],
+	"name" : "DiffChangeMorph",
+	"type" : "normal"
+}

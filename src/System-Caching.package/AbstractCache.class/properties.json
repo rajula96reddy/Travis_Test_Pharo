@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "System-Caching",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"factory",
+		"statistics",
+		"weight",
+		"access"
+	],
+	"name" : "AbstractCache",
+	"type" : "normal"
+}

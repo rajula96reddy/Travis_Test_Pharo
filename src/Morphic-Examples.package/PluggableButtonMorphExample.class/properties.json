@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Model",
+	"category" : "Morphic-Examples-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"label",
+		"state",
+		"icon"
+	],
+	"name" : "PluggableButtonMorphExample",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "StephaneDucasse 3/7/2014 10:55",
+	"super" : "MorphicWindowAdapter",
+	"category" : "Spec-MorphicAdapters",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MorphicTickingWindowAdapter",
+	"type" : "normal"
+}

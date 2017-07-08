@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "ajh 3/24/2003 23:57",
+	"super" : "IRInstruction",
+	"category" : "OpalCompiler-Core-IR-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IRPop",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "VeronicaUquillas 4/20/2011 17:18",
+	"super" : "RGContainer",
+	"category" : "Ring-Core-Containers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"package"
+	],
+	"name" : "RGPackage",
+	"type" : "normal"
+}

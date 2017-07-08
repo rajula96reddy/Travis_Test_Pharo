@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "AlexandreBergel 9/30/2011 15:22",
+	"super" : "TestCase",
+	"category" : "Shout-Tests-Styling",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"element"
+	],
+	"name" : "SHStyleElementTest",
+	"type" : "normal"
+}

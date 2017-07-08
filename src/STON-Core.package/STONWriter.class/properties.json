@@ -1,0 +1,25 @@
+{
+	"commentStamp" : "SvenVanCaekenberghe 1/31/2017 23:27",
+	"super" : "Object",
+	"category" : "STON-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"STONCharacters",
+		"STONSimpleSymbolCharacters"
+	],
+	"instvars" : [
+		"writeStream",
+		"prettyPrint",
+		"stonCharacters",
+		"newLine",
+		"asciiOnly",
+		"jsonMode",
+		"keepNewLines",
+		"referencePolicy",
+		"level",
+		"objects"
+	],
+	"name" : "STONWriter",
+	"type" : "normal"
+}

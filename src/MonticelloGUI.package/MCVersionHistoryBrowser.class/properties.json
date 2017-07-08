@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "TorstenBergmann 2/20/2014 15:53",
+	"super" : "MCTool",
+	"category" : "MonticelloGUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ancestry",
+		"index",
+		"package",
+		"infos"
+	],
+	"name" : "MCVersionHistoryBrowser",
+	"type" : "normal"
+}

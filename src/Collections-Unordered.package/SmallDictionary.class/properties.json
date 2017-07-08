@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "monty 9/6/2016 20:38",
+	"super" : "Collection",
+	"category" : "Collections-Unordered",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"keys",
+		"values",
+		"size"
+	],
+	"name" : "SmallDictionary",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Glamour-Browsers-Tabulator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"children",
+		"span",
+		"id",
+		"browser",
+		"size"
+	],
+	"name" : "GLMCustomCell",
+	"type" : "normal"
+}

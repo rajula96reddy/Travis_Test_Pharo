@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "GoferPackageReference",
+	"category" : "Metacello-MC-Gofer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"packageFilename",
+		"version",
+		"workingCopy"
+	],
+	"name" : "MetacelloGoferPackage",
+	"type" : "normal"
+}

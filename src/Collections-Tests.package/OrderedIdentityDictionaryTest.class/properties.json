@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "OrderedDictionaryTest",
+	"category" : "Collections-Tests-Sequenceable",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OrderedIdentityDictionaryTest",
+	"type" : "normal"
+}

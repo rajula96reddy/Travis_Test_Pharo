@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RBFormatterTest",
+	"category" : "BlueInk-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BIConfigurableFormatterFormattingTest",
+	"type" : "normal"
+}

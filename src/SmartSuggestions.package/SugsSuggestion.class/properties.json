@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "SmartSuggestions-Suggestion",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"blockCommand",
+		"context",
+		"label",
+		"icon",
+		"position",
+		"keyText",
+		"isValidBlock"
+	],
+	"name" : "SugsSuggestion",
+	"type" : "normal"
+}

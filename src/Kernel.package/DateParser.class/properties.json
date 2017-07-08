@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Kernel-Chronology",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"inputStream",
+		"pattern",
+		"patternStream",
+		"char",
+		"year",
+		"month",
+		"day",
+		"invalidPattern"
+	],
+	"name" : "DateParser",
+	"type" : "normal"
+}

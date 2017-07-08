@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "System-Changes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"changeType",
+		"infoFromRemoval"
+	],
+	"name" : "MethodChangeRecord",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "ChristopheDemarey 10/9/2015 11:51",
+	"super" : "AbstractSessionHandler",
+	"category" : "System-SessionManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"UniqueInstance"
+	],
+	"instvars" : [ ],
+	"name" : "UIManagerSessionHandler",
+	"type" : "normal"
+}

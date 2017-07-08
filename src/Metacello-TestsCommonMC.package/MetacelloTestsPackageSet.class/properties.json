@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "PavelKrivanek 3/7/2017 11:42",
+	"super" : "RPackageSet",
+	"category" : "Metacello-TestsCommonMC",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MetacelloTestsPackageSet",
+	"type" : "normal"
+}

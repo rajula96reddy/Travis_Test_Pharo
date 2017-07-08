@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "DAClassNode",
+	"category" : "Tool-DependencyAnalyser-UI-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"package"
+	],
+	"name" : "DAClassToDependencyNode",
+	"type" : "normal"
+}

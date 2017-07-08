@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "SvenVanCaekenberghe 12/7/2010 16:14",
+	"super" : "Object",
+	"category" : "Zinc-HTTP-Client-Server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"object"
+	],
+	"name" : "ZnValueDelegate",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 2/4/2014 22:07",
+	"super" : "FontFamilyAbstract",
+	"category" : "FreeType-FontManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FreeTypeFontFamily",
+	"type" : "normal"
+}

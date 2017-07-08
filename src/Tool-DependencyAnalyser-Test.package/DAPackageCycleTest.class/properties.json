@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Tool-DependencyAnalyser-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"aPDPackageCycle",
+		"packageA",
+		"packageB",
+		"packageC"
+	],
+	"name" : "DAPackageCycleTest",
+	"type" : "normal"
+}

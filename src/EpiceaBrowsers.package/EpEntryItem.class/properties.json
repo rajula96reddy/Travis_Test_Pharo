@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Model",
+	"category" : "EpiceaBrowsers-UI-Log",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"browser",
+		"entry",
+		"triggerItems"
+	],
+	"name" : "EpEntryItem",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "STONTestUser",
+	"category" : "STON-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STONTestUser3",
+	"type" : "normal"
+}

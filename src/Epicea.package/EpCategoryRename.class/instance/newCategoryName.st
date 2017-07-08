@@ -1,0 +1,4 @@
+accessing
+newCategoryName
+
+	^ self categoryName

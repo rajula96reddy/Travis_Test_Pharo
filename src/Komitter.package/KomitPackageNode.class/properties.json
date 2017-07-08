@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "KomitNode",
+	"category" : "Komitter-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KomitPackageNode",
+	"type" : "normal"
+}

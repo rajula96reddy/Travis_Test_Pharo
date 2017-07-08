@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Metacello-Core-Scripts",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"projectSpec",
+		"useDetermineVersionForLoad",
+		"overrideProjectSpec"
+	],
+	"name" : "MetacelloProjectSpecForLoad",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "TorstenBergmann 2/5/2014 08:33",
+	"super" : "TestCase",
+	"category" : "Kernel-Tests-Chronology",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"aDateAndTime",
+		"aDuration",
+		"aTimeZone",
+		"localTimeZoneToRestore"
+	],
+	"name" : "DateAndTimeUnixEpochTest",
+	"type" : "normal"
+}

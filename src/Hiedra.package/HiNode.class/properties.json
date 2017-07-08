@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "MartinDias 3/30/2016 23:18",
+	"super" : "HiRenderingElement",
+	"category" : "Hiedra-Rendering",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value",
+		"columnIndex",
+		"rowIndex"
+	],
+	"name" : "HiNode",
+	"type" : "normal"
+}

@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "IgorStasenko 10/20/2011 10:14",
+	"super" : "Object",
+	"category" : "Athens-Text",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"text",
+		"font",
+		"canvas",
+		"glyphRenderer",
+		"color",
+		"advance",
+		"maxAscent",
+		"currentLine"
+	],
+	"name" : "AthensTextRenderer",
+	"type" : "normal"
+}

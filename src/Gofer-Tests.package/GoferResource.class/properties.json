@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "TorstenBergmann 2/5/2014 09:30",
+	"super" : "TestResource",
+	"category" : "Gofer-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"versionReferences",
+		"monticelloRepository"
+	],
+	"name" : "GoferResource",
+	"type" : "normal"
+}

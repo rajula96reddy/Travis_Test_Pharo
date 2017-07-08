@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RBLintRuleTest",
+	"category" : "Refactoring-Tests-Core-Data",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rules"
+	],
+	"name" : "RBCompositeLintRuleTest",
+	"type" : "normal"
+}

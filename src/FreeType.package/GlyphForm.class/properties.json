@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "TorstenBergmann 2/4/2014 22:11",
+	"super" : "Form",
+	"category" : "FreeType-Fonts",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"advance",
+		"linearAdvance"
+	],
+	"name" : "GlyphForm",
+	"type" : "normal"
+}

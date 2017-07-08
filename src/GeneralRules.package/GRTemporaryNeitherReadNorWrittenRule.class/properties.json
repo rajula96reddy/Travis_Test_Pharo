@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "YuriyTymchuk 9/5/2016 13:52",
+	"super" : "ReNodeBasedRule",
+	"category" : "GeneralRules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GRTemporaryNeitherReadNorWrittenRule",
+	"type" : "normal"
+}

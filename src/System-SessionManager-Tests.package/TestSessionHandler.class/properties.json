@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "ChristopheDemarey 10/12/2015 16:45",
+	"super" : "AbstractSessionHandler",
+	"category" : "System-SessionManager-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startupHandler",
+		"shutdownHandler"
+	],
+	"name" : "TestSessionHandler",
+	"type" : "normal"
+}

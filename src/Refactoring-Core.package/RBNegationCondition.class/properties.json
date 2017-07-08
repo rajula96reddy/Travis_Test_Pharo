@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "NicolaiHess 5/19/2016 16:43",
+	"super" : "RBAbstractCondition",
+	"category" : "Refactoring-Core-Conditions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"condition"
+	],
+	"name" : "RBNegationCondition",
+	"type" : "normal"
+}

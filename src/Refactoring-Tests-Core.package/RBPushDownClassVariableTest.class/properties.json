@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RBRefactoringTest",
+	"category" : "Refactoring-Tests-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RBPushDownClassVariableTest",
+	"type" : "normal"
+}

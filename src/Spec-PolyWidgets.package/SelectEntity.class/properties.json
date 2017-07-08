@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "jfabry 12/13/2016 15:51",
+	"super" : "ComposableModel",
+	"category" : "Spec-PolyWidgets-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"entity",
+		"selectEntity",
+		"possibleEntities",
+		"displaySymbol",
+		"entityText",
+		"ghostText",
+		"selectDialog"
+	],
+	"name" : "SelectEntity",
+	"type" : "normal"
+}

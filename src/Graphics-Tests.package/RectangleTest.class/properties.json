@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Graphics-Tests-Primitives",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"emptyRectangle",
+		"rectangle1"
+	],
+	"name" : "RectangleTest",
+	"type" : "normal"
+}

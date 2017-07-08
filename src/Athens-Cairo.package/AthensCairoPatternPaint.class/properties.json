@@ -1,0 +1,20 @@
+{
+	"classtraitcomposition" : "TCairoLibrary classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"surface",
+		"origin",
+		"direction",
+		"extent"
+	],
+	"name" : "AthensCairoPatternPaint",
+	"commentStamp" : "<historical>",
+	"super" : "FFIExternalObject",
+	"traitcomposition" : "TCairoLibrary",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [
+		"AthensCairoDefs"
+	],
+	"category" : "Athens-Cairo-Paints"
+}

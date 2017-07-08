@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "ChristopheDemarey 11/20/2014 11:15",
+	"super" : "Object",
+	"category" : "Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PackageManifest",
+	"type" : "normal"
+}

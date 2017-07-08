@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "STCommandLineHandler",
+	"category" : "CodeImportCommandLineHandlers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EvaluateCommandLineHandler",
+	"type" : "normal"
+}

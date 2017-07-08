@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MetacelloCommonVersionNumberTestCase",
+	"category" : "Metacello-TestsCore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MetacelloVersionNumberTestCase",
+	"type" : "normal"
+}

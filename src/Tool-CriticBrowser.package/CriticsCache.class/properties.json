@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Tool-CriticBrowser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"critics",
+		"toDos",
+		"falsePositives",
+		"checker",
+		"browser",
+		"falsePositiveRules",
+		"falsePositiveClasses",
+		"packages",
+		"change"
+	],
+	"name" : "CriticsCache",
+	"type" : "normal"
+}

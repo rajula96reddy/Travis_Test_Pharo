@@ -1,0 +1,21 @@
+{
+	"classtraitcomposition" : "TViewModel classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"selection",
+		"scrollValue",
+		"announcer",
+		"classIsMeta",
+		"selectedClassName",
+		"selectedMethodName",
+		"enabled"
+	],
+	"name" : "RubPluggableTextMorphExample",
+	"commentStamp" : "AlainPlantec 5/13/2015 16:18",
+	"super" : "Model",
+	"traitcomposition" : "TViewModel",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Rubric-Editing-Widgets-Examples"
+}

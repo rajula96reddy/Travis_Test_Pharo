@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ZipWriteStream",
+	"category" : "Compression-Streams",
+	"classinstvars" : [ ],
+	"pools" : [
+		"GZipConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GZipWriteStream",
+	"type" : "normal"
+}

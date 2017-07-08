@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "mir 5/12/2003 18:14",
+	"super" : "NetworkError",
+	"category" : "Network-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ConnectionTimedOut",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "eem 4/25/2008 16:30",
+	"super" : "Alien",
+	"category" : "Alien-Win32",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IntegerFlagAlien",
+	"type" : "bytes"
+}

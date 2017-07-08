@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MerwanOuddane 4/2/2015 15:02",
+	"super" : "OSTouchComplexEvent",
+	"category" : "OSWindow-Core-Events-Touch",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dDist"
+	],
+	"name" : "OSTouchPinchEvent",
+	"type" : "normal"
+}

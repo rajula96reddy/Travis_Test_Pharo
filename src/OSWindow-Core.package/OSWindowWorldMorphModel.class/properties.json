@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "RonieSalgado 9/9/2016 18:06",
+	"super" : "WindowModel",
+	"category" : "OSWindow-Core-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OSWindowWorldMorphModel",
+	"type" : "normal"
+}

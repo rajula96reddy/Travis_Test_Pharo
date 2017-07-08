@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MetacelloProjectSpec",
+	"category" : "Metacello-Core-Specs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"projectPackage",
+		"repositories"
+	],
+	"name" : "MetacelloGenericProjectSpec",
+	"type" : "normal"
+}

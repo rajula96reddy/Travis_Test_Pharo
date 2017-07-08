@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "IRInstruction",
+	"category" : "OpalCompiler-Core-IR-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IRAccess",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Keymapping-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"namedRegistry",
+		"anonymousRegistry"
+	],
+	"name" : "KMStorage",
+	"type" : "normal"
+}

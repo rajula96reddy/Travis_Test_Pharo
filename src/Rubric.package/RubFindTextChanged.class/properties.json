@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "FranckWarlouzet 7/29/2015 13:32",
+	"super" : "RubAnnouncement",
+	"category" : "Rubric-Editing-FindReplaceService",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RubFindTextChanged",
+	"type" : "normal"
+}

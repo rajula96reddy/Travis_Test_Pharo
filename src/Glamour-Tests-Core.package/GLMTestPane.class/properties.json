@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "GLMPane",
+	"category" : "Glamour-Tests-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"seenTransmissions"
+	],
+	"name" : "GLMTestPane",
+	"type" : "normal"
+}
